@@ -5,5 +5,5 @@
 layout: home
 ---
 
-[화행_이론](./_posts/speech_act.pdf) 
+[화행_이론](./data/speech_act.pdf) 
 
