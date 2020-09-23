@@ -5,4 +5,4 @@ date:   2020-09-23 13:01:01 +0900
 categories: jekyll update
 ---
 
-![화행이론](./speech_act.pdf) 
+[화행_이론](./speech_act.pdf) 
