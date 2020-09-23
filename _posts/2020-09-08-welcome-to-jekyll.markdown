@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Slow 스터디"
-date:   2020-09-23 15:00:00 +0900
+title:  "Slow 화행 스터디"
+date:   2020-09-23 13:01:01 +0900
 categories: jekyll update
 ---
 
