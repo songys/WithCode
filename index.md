@@ -4,6 +4,5 @@
 
 layout: home
 ---
-Slow 스터디 1차 자료
-[화행이론 정리](./data/speech_act.pdf) 
+
 
