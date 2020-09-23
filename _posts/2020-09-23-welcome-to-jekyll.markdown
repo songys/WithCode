@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Slow RSA 스터디"
-date:   2020-09-22 10:02:01 +0900
+date:   2020-09-23 10:02:01 +0900
 categories: jekyll update
 ---
 
-[화행_이론](./speech_act.pdf) 
+[화행_이론](./_posts/speech_act.pdf) 
