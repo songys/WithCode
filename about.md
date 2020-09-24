@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /화행스터디정리/
 ---
 
 
-[화행이론](./data/speech.pdf)
+[화행이론](./data/speech_act.pdf)
